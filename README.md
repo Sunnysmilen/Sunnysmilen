@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dpZ293bnIxOTJvbnB2bGhldTl1c3VoZDI5YWNxb2NrZ2gyMXFzcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26xBukhJ0i8KXADYc/giphy.gif">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dpZ293bnIxOTJvbnB2bGhldTl1c3VoZDI5YWNxb2NrZ2gyMXFzcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26xBukhJ0i8KXADYc/giphy.gif" style="width:100%; height=24rem">
 
 - 👋 Hi, I’m Sunnysmilen:
 - 
